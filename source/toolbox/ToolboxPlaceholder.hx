@@ -27,7 +27,7 @@ class ToolboxPlaceholder extends states.MusicBeatState {
 			#if sys
 			new GameStateOption("New Mod", new NewModState()),
 			#end
-			new ToolboxPageOption("Tools", "Tools",),
+			new ToolboxPageOption("Tools", "Tools"),
 			new ToolboxPageOption("Documentation", "Documentation")
 		],
 		"Tools" => [

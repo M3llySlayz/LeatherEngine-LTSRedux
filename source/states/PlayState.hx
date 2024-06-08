@@ -2558,7 +2558,7 @@ class PlayState extends MusicBeatState{
 		}
 
 		if (generatedMusic && !switchedStates && startedCountdown && notes != null && playerStrums.members.length != 0 && enemyStrums.members.length != 0) {
-			notes?.forEachAlive(function(daNote:Note) {
+			notes.forEachAlive(function(daNote:Note) {
 				var coolStrum = (daNote.shouldHit ? playerStrums.members[Math.floor(Math.abs(daNote.noteData))%playerStrums.members.length] : enemyStrums.members[Math.floor(Math.abs(daNote.noteData))%enemyStrums.members.length]);
 				var strumY = coolStrum.y;
 				daNote.visible = true;
@@ -2809,7 +2809,7 @@ class PlayState extends MusicBeatState{
 							}
 		
 						}
-						else if (!daNote?.wasGoodHit)
+						else if (!daNote.wasGoodHit)
 						{
 							var coolStrum = enemyStrums.members[Math.floor(Math.abs(daNote.noteData))];
 							var arrayVal = Std.string([daNote.noteData, daNote.arrow_Type, daNote.isSustainNote]);
