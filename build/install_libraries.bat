@@ -16,7 +16,7 @@ haxelib git hxNoise https://github.com/whuop/hxNoise
 haxelib install hxvlc
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
 haxelib git fnf-modcharting-tools https://github.com/Vortex2Oblivion/FNF-Modcharting-Tools
-haxelib git flxanimate https://github.com/Vortex2Oblivion/flxanimate
+haxelib git flxanimate https://github.com/IrshaadAli1/flxanimate
 haxelib git thx.semver https://github.com/fponticelli/thx.semver.git
 haxelib git funkin.vis https://github.com/FNF-CNE-Devs/funkVis grig-test
 haxelib git grig.audio https://gitlab.com/haxe-grig/grig.audio
