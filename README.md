@@ -1,17 +1,12 @@
-# Leather Engine
+# Leather Engine: Redux
 
-![](https://img.shields.io/github/repo-size/Vortex2Oblivion/LeatherEngine-Extended-Support) ![](https://badgen.net/github/open-issues/Vortex2Oblivion/LeatherEngine-Extended-Support) ![](https://badgen.net/badge/license/GPL-3.0/green)
-[![CI build](https://github.com/Vortex2Oblivion/LeatherEngine-Extended-Support/actions/workflows/workflow.yml/badge.svg)](https://github.com/Vortex2Oblivion/LeatherEngine-Extended-Support/actions/workflows/workflow.yml)
-[![github-pages](https://github.com/Vortex2Oblivion/LeatherEngine-Extended-Support/actions/workflows/pages.yml/badge.svg)](https://github.com/Vortex2Oblivion/LeatherEngine-Extended-Support/actions/workflows/pages.yml)
-[![Discord](https://img.shields.io/discord/1142524994258215053.svg?logo=discord)](https://discord.gg/fnuhPNqzdZ)
-
-![Logo](art/Logo.png)
+![Logo](https://media.discordapp.net/attachments/1248142809412665354/1248289202878152826/image.png?ex=666470ea&is=66631f6a&hm=d405abd264aa2235e454975f32791eb6da2739252c01860ca51818e0740a8b26&=&format=webp&quality=lossless&width=974&height=671)
 
 This is the repository for Leather Engine, an engine created for making and playing mods for Friday Night Funkin'.
 
 ## Links
 
-- [Discord Server](https://discord.gg/fnuhPNqzdZ)
+- [Discord Server](https://discord.gg/sPqaPKaNbE)/
 
 - [Gamebanana Page](https://gamebanana.com/mods/334945)
 

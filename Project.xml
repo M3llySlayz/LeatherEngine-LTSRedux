@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Leather Engine" file="Leather Engine" packageName="com.leather128.funkin"
+	<app title="Leather Engine: Redux" file="Leather Engine Redux" packageName="com.leather128.funkin"
 		package="com.leather128.funkin" main="Main" version="0.5.0" company="leather128" />
 
 	<!-- totally not stolen from psych engine -->
