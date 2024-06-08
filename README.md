@@ -2,7 +2,7 @@
 
 ![Logo](https://media.discordapp.net/attachments/1248142809412665354/1248289202878152826/image.png?ex=666470ea&is=66631f6a&hm=d405abd264aa2235e454975f32791eb6da2739252c01860ca51818e0740a8b26&=&format=webp&quality=lossless&width=974&height=671)
 
-This is the repository for Leather Engine, an engine created for making and playing mods for Friday Night Funkin'.
+This is the repository for Leather Engine: Redux, an engine created for making and playing mods for Friday Night Funkin'.
 
 ## Links
 
@@ -16,7 +16,7 @@ This is the repository for Leather Engine, an engine created for making and play
 
 ### IMPORTANT:
 
-For build instructions go to [BUILD.md](https://github.com/Vortex2Oblivion/LeatherEngine-Extended-Support/blob/main/build/BUILD.md)
+For build instructions go to [BUILD.md](build/BUILD.md)
 
 ## Features
 
@@ -40,6 +40,16 @@ You can have different note types that give different amounts of health or give 
 
 ## Credits
 
+- M3llySlayz - Owner and programmer for LE:R
+
+- Irshaad Ali - Programmer for LE:R
+
+- JB444m - Inspired Melly to do this in the first place, manages the Discord
+
+- Lumi - New Redux logo
+
+- Leader - New logoBumpin
+
 - KadeDev - Code for downscroll & Modcharts
 
 - SrPerez - Original 9 Key and 6 Key Designs
@@ -49,8 +59,6 @@ You can have different note types that give different amounts of health or give 
 - PolybiusProxy - hxCodec
 
 - Video LAN Team - People who made VLC Media Player (the thing the game uses to play videos)
-
-- Ronezkj15 - Some Ideas + New Leather Engine Logo
 
 - ShadowMario - Color Swap Shader (for notes and stuffs) + some really weird modchart stuff that im too stupid to know lol
 
