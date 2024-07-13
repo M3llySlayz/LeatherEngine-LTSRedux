@@ -6,7 +6,7 @@ This is the repository for Leather Engine: Redux, an engine created for making a
 
 ## Links
 
-- [Discord Server](https://discord.gg/sPqaPKaNbE)/
+- [Discord Server](https://discord.gg/sPqaPKaNbE)
 
 - [Some Mod Ports](https://github.com/Leather128/LeathersFNFModPorts)
 
