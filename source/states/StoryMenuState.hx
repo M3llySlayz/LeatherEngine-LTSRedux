@@ -60,7 +60,7 @@ class StoryMenuState extends MusicBeatState {
 	var leftArrow:FlxSprite;
 	var rightArrow:FlxSprite;
 
-	var camFollow = new FlxObject(0, 0, 1, 0.7);
+	var camFollow = new FlxObject(FlxG.width / 2, FlxG.height / 2, 1, 0.7);
 
 	override function create():Void {
 		if (FlxG.sound.music == null || !FlxG.sound.music.playing)
@@ -77,6 +77,7 @@ class StoryMenuState extends MusicBeatState {
 
 		add(camFollow);
 		FlxG.camera.follow(camFollow, null, 0.06);
+		FlxG.camera.zoom = 0.5;
 
 		super.create();
 	}

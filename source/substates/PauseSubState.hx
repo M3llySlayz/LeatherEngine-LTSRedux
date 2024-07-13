@@ -227,7 +227,7 @@ class PauseSubState extends MusicBeatSubstate {
 					pauseMusic.destroy();
 					FlxG.sound.list.remove(pauseMusic);
 					FlxG.cameras.remove(pauseCamera);
-					FlxG.switchState(new PauseOptions());
+					//FlxG.switchState(new OptionsMenuSubstate());
 					PlayState.chartingMode = false;
 				}
 				case "back":
