@@ -8,8 +8,6 @@ This is the repository for Leather Engine: Redux, an engine created for making a
 
 - [Discord Server](https://discord.gg/sPqaPKaNbE)/
 
-- [Gamebanana Page](https://gamebanana.com/mods/334945)
-
 - [Some Mod Ports](https://github.com/Leather128/LeathersFNFModPorts)
 
 ## Build Instructions
