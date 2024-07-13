@@ -8,14 +8,18 @@ left up right square left2 down right2
 left down up right left2 down2 up2 right2
 left down up right square left2 down2 up2 right2
 left down up right rup rdown left2 down2 up2 right2
-left down up right rup plus rdown left2 down2 up2 right2
+left down up right rup square rdown left2 down2 up2 right2
 left down up right rleft rdown rup rright left2 down2 up2 right2
-left down up right rleft rright square rleft2 rright2 left2 down2 up2 right2
-left down up right rleft rright square plus rleft2 rright2 left2 down2 up2 right2
-left down up right rleft rright rup plus rup2 rleft2 rright2 left2 down2 up2 right2
-left down up right rleft rdown rup rright rleft2 rdown2 rup2 rright2 left2 down2 up2 right2
-left down up right plus rleft square rdown plus rup square rright plus left2 down2 up2 right2
-left down up right left2 down2 up2 right2 square plus rleft rdown rup rright rleft2 rdown2 rup2 rright2
-left down up right left2 down2 up2 right2 rup2 plus rdown2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
-left down up right left2 down2 up2 right2 rleft2 rdown2 rup2 rright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
-left down up right left2 down2 up2 right2 rleft2 rdown2 plus rup2 rright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right rleft rdown square rup rright left2 down2 up2 right2
+left down up right rleft rup rright rleft2 rdown rright2 left2 down2 up2 right2
+left down up right rleft rup rright square rleft2 rdown rright2 left2 down2 up2 right2
+left down up right left2 down2 up2 right2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 square rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tup tdown rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tup square tdown rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tdown tup tright rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tdown square tup tright rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tup tright tleft2 tdown tright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tup tright square tleft2 tdown tright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tdown tup tright tleft2 tdown2 tup2 tright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
+left down up right left2 down2 up2 right2 tleft tdown tup tright square tleft2 tdown2 tup2 tright2 rleft rdown rup rright rleft2 rdown2 rup2 rright2
