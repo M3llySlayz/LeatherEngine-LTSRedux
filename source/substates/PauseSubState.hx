@@ -305,8 +305,3 @@ class PauseSubState extends MusicBeatSubstate {
 		}
 	}
 }
-class PauseOptions extends OptionsMenu{
-	override inline function goBack(){
-		FlxG.switchState(new PlayState());
-	}
-}

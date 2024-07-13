@@ -12,6 +12,7 @@ import ui.MenuCharacter;
 import ui.MenuItem;
 import flixel.FlxG;
 import flixel.FlxSprite;
+import flixel.FlxObject;
 import flixel.group.FlxGroup;
 import flixel.math.FlxMath;
 import flixel.text.FlxText;
@@ -59,6 +60,8 @@ class StoryMenuState extends MusicBeatState {
 	var leftArrow:FlxSprite;
 	var rightArrow:FlxSprite;
 
+	var camFollow = new FlxObject(0, 0, 1, 0.7);
+
 	override function create():Void {
 		if (FlxG.sound.music == null || !FlxG.sound.music.playing)
 			TitleState.playTitleMusic();
@@ -71,6 +74,9 @@ class StoryMenuState extends MusicBeatState {
 
 		// CREATE THE UI //
 		createStoryUI();
+
+		add(camFollow);
+		FlxG.camera.follow(camFollow, null, 0.06);
 
 		super.create();
 	}
